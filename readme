@@ -1,5 +1,7 @@
-First run code in iqvia_part_code.
+This repository contains the code and data processing scripts used in the manuscript: Discovering Signature Disease Trajectories in Pancreatic Cancer and Soft-tissue Sarcoma from Longitudinal Patient Records Submitted to Journal of Biomedical Informatics.
 
-Then run code in local_post_computation.
+1. First run code in iqvia_part_code.
 
-Finially run code in UT calidation.
+2. Then run code in local_post_computation.
+
+3. Finially run code in UT calidation.
