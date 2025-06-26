@@ -3,5 +3,3 @@ First run code in iqvia_part_code.
 Then run code in local_post_computation.
 
 Finially run code in UT calidation.
-
-The plot result is shown in result folder.
