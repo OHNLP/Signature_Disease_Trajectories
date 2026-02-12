@@ -1,4 +1,7 @@
-This repository contains the code and data processing scripts used in the manuscript: "Discovering Signature Disease Trajectories in Pancreatic Cancer and Soft-tissue Sarcoma from Longitudinal Patient Records" Submitted to Journal of Biomedical Informatics.
+This repository contains the code and data processing scripts used in the manuscript: "Discovering Signature Disease Trajectories in Pancreatic Cancer and Soft-tissue Sarcoma from Longitudinal Patient Records" Published in Journal of Biomedical Informatics. 
+
+Please cite: Liwei Wang, Rui Li, Andrew Wen, Qiuhao Lu, Jinlian Wang, Xiaoyang Ruan, Adriana Gamboa, Neha Malik, Christina L Roland, Matthew HG Katz, Heather Lyu, Hongfang Liu. Discovering Signature Disease Trajectories in Pancreatic Cancer and Soft-tissue Sarcoma from Longitudinal Patient Records. J Biomed Inform. 2025 Nov:171:104935. doi: 10.1016/j.jbi.2025.104935. Epub 2025 Oct 19.
+
 
 1. First run code in iqvia_part_code.
 
